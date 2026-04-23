@@ -46,3 +46,7 @@ out/
 
 /gradle
 *.properties
+*.gradle
+gradlew
+*.bat
+
